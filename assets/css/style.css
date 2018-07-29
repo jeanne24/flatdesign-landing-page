@@ -439,7 +439,7 @@ li:active {
 	}
 
 	.parts {
-		padding-right: 0px;
+		padding-right: 0;
 	}
 
 	.parts > #tagline + p{
