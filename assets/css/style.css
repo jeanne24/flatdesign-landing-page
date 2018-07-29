@@ -349,7 +349,7 @@ li:active {
 }
 
 
-@media only screen and (max-width: 1100px) and (min-width: 800px);{
+@media only screen and (max-width: 1100px) and (min-width: 721px);{
 	.section2 {
 		height: 100%;
 	}
@@ -415,7 +415,7 @@ li:active {
 	}
 }
 
-@media only screen and (max-width: 721px){
+@media only screen and (max-width: 720px){
 	.nav {
 		height: 74px!important;
 	}
